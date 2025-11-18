@@ -7,7 +7,7 @@ Expected format:
 - CSV or MAT file containing EEG signals
 - Channels: Fp1, Fp2, etc.
 - Labels (optional): stress, seizure, emotion class, etc.
-Techniques Used
+### Techniques Used
 Data Preprocessing
 Handling missing values
 Channel selection
@@ -20,8 +20,7 @@ Standard deviation
 Skewness / kurtosis
 Peak-to-peak amplitude
 Frequency domain features (if applied)
-Models Applied
-(Adjust based on your notebook — typical ones include:)
+### Models Applied
 Random Forest
 SVM
 Logistic Regression
